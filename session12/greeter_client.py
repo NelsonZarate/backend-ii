@@ -10,7 +10,7 @@ def run():
             greeter_pb2.HelloRequest(name="adrien")
         )
         
-        print("Resposta do servidor:", response.message)
+        print("Server Response:", response.message)
 
 if __name__ == "__main__":
     run()
