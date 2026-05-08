@@ -1,0 +1,35 @@
+build_landing_page:
+  description: >
+    Create a modern gaming landing page.
+
+    IMPORTANT:
+    Return 3 SEPARATE FILES:
+    - index.html
+    - styles.css
+    - script.js
+
+    Format:
+    FILE: index.html
+    ```html
+    ...
+    ```
+
+    FILE: styles.css
+    ```css
+    ...
+    ```
+
+    FILE: script.js
+    ```javascript
+    ...
+    ```
+  expected_output: >
+    Three complete files: HTML, CSS and JS, fully separated and functional.
+
+design_dashboard:
+  description: >
+    Create a modern SaaS dashboard UI with sidebar and cards.
+    Output clean HTML structure.
+
+  expected_output: >
+    Clean HTML + CSS dashboard layout with sidebar navigation and card components.
